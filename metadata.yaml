@@ -1,0 +1,37 @@
+_repo: Peukaloisen-retket-villihanhien-seurassa_45052
+_version: 0.1.0
+alternative_title: Nils Holgerssons underbara resa. Finnish
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lagerlöf, Selma
+    aliases:
+    - Lagerloef, Selma
+    - Lagerlof, Selma
+    - Lagerlöf, Selma Ottiliana Lovisa
+    birthdate: 1858
+    deathdate: 1940
+    gutenberg_agent_id: '1717'
+    url: http://www.gutenberg.org/2009/agents/1717
+    wikipedia: http://en.wikipedia.org/wiki/Selma_Lagerlöf
+description: ''
+gutenberg_issued: '2014-03-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45052'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Boys -- Juvenile fiction'
+- !lcsh 'Kindness -- Juvenile fiction'
+- !lcsh 'Geese -- Juvenile fiction'
+- !lcsh 'Fantasy literature'
+- !lcsh 'Sweden -- Juvenile fiction'
+- !lcc 'PZ'
+title: Peukaloisen retket villihanhien seurassa
+url: http://www.gutenberg.org/ebooks/45052
